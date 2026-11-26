@@ -1,0 +1,27 @@
+{
+  "midi": {
+    "output": "IAC Driver",
+    "channels": {
+      "melody": 1,
+      "kick": 2,
+      "snare": 3,
+      "hihat": 4,
+      "bass": 5,
+      "effects": 6
+    }
+  },
+  "melody": {
+    "enabled": true,
+    "scale": "A minor",
+    "octaves": 2
+  },
+  "drums": {
+    "kick_every_turns": 4,
+    "snare_every_turns": 8
+  },
+  "controls": {
+    "left": ["F", "E", "W"],
+    "right": ["K", "O", "P"],
+    "brake": "SPACE"
+  }
+}
