@@ -1,6 +1,6 @@
 {
   "midi": {
-    "output": "IAC Driver",
+    "output": "IAC Driver Bus 1"
     "channels": {
       "melody": 1,
       "kick": 2,
